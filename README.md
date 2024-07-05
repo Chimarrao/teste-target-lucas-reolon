@@ -45,39 +45,39 @@ Este projeto é um Web Service REST desenvolvido em Laravel que permite a autent
 ### Como Iniciar o Projeto
 
 1. Clone o repositório:
-    ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
-    ```
 
+   ```bash
+   git clone https://github.com/Chimarrao/teste-target-lucas-reolon
+   cd seu-repositorio
+   ```
 2. Instale as dependências do Composer:
-    ```bash
-    composer install
-    ```
 
+   ```bash
+   composer install
+   ```
 3. Copie o arquivo `.env.example` para `.env`:
-    ```bash
-    cp .env.example .env
-    ```
 
+   ```bash
+   cp .env.example .env
+   ```
 4. Gere a chave da aplicação:
-    ```bash
-    php artisan key:generate
-    ```
 
+   ```bash
+   php artisan key:generate
+   ```
 5. Configure o banco de dados no arquivo `.env`.
-
 6. Execute as migrações:
-    ```bash
-    php artisan migrate
-    ```
 
+   ```bash
+   php artisan migrate
+   ```
 7. Inicie o servidor de desenvolvimento:
-    ```bash
-    php artisan serve
-    ```
 
+   ```bash
+   php artisan serve
+   ```
 8. Execute os testes para garantir que tudo está funcionando:
-    ```bash
-    php artisan test
-    ```
+
+   ```bash
+   php artisan test
+   ```
