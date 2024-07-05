@@ -48,7 +48,7 @@ Este projeto é um Web Service REST desenvolvido em Laravel que permite a autent
 
    ```bash
    git clone https://github.com/Chimarrao/teste-target-lucas-reolon
-   cd seu-repositorio
+   cd teste-target-lucas-reolon
    ```
 2. Instale as dependências do Composer:
 
